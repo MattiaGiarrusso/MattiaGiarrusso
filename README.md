@@ -5,7 +5,8 @@
 - 👀 A few things about me... I love following certain sports: football, tennis, basketball, mma, motogp, formula 1 and wrestling. I read manga and watch anime and TV series.
 - 📫 My contacts: <a href='giar.mat96@gmail.com'>giar.mat96@gmail.com</a>
 - 🛠 Languages learnt:
-- <img src="https://img.shields.io/badge/HTML%205-HTML%205-red?labelColor=white&style=for-the-badge" alt="HTML 5"> <img src="https://img.shields.io/badge/css-css-blue?labelColor=white&style=for-the-badge" alt="css"> <img src="https://img.shields.io/badge/javascript-javascritp-yellow?labelColor=black&style=for-the-badge" alt="javascript" />
+- <img src="https://img.shields.io/badge/HTML%205-red?style=for-the-badge" alt="HTML 5" /> <img src="https://img.shields.io/badge/css-blue?style=for-the-badge" alt="css" />
+<img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge" alt="javascript" />
 - ✨ Framework in progress:
 - <img src="https://img.shields.io/badge/bootstrap-bootstrap-purple?labelColor=white&style=for-the-badge" alt="bootstrap" /> <img src="https://img.shields.io/badge/vue-bootstrap-darkgreen?labelColor=white&style=for-the-badge" alt="vue" /> <img src="https://img.shields.io/badge/vite-vite-violet?labelColor=violet&style=for-the-badge&logoColor=yellow" alt="vite" />
 - ⚡Coming soon...
