@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m @MattiaGiarrusso
-- 😄 I am 27 years old, a junior developer studying at Boolean.
+- 😄 I am 28 years old, a junior developer studying at Boolean.
 - 🔭 I am currently taking the full stack web developer course at Boolean; I am also finishing my Master's degree in 'Business Organisation and Marketing' at 'La Sapienza' University in Rome.
 - 🌱 These months I am learning javascript languages such as Vue, Vite, Sass. Next step is learning the backend with Php and Lavavel.
 - 👀 A few things about me... I love following certain sports: football, tennis, basketball, mma, motogp, formula 1 and wrestling. I read manga and watch anime and TV series.
